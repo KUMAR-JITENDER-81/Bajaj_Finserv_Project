@@ -1,0 +1,1 @@
+This project provides an API endpoint /extract-bill-data that receives a bill (either as a URL or as a file) and extracts useful information from it such as item names, rates, quantities, totals, and subtotals.
